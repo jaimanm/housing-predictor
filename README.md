@@ -24,3 +24,6 @@ The model will be predicting the median house value for each block, using the ot
 ## Model
 
 The model is a simple linear regression model. The model is trained using the training set and evaluated using the test set. The model is built using scikit-learn libraries. There will be 2 models: [one using the normal equation](model_normaleqn.ipynb) and [one using gradient descent](model_sgd.ipynb).
+
+## Results
+Both models had very similar final weights, and performed similarly on the test data.
